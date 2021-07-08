@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wangfeng1996.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-07-08T03:24:34.902Z</updated>
+    <title>wangfeng_Blog</title>
+    <updated>2021-07-08T03:28:39.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wangfeng1996.github.io"/>
     <link rel="self" href="https://wangfeng1996.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>有夢想的🐟</subtitle>
     <logo>https://wangfeng1996.github.io/images/avatar.png</logo>
     <icon>https://wangfeng1996.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, wangfeng_Blog</rights>
     <entry>
         <title type="html"><![CDATA[测试]]></title>
         <id>https://wangfeng1996.github.io/post/ce-shi/</id>
